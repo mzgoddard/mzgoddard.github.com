@@ -1,0 +1,1 @@
+(function(){var e=[],t=[];e.push("css/master.css"),t.push("main.js"),e.forEach(function(e){var t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.head.appendChild(t)}),t.forEach(function(e){var t=document.createElement("script");t.src=e,document.head.appendChild(t)})})();
